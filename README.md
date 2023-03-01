@@ -19,3 +19,31 @@ The datasets consists of several medical predictor variables and one target vari
 **Age:** Age (years)                                  
 **Outcome:** Class variable (0 or 1)                                         
 **Variable Number:** 9                                               
+
+**Techniques Used**    
+Data Cleaning    
+Data Visualization   
+Machine Learning Modeling   
+
+**Algortihms Used**
+Logistic Regression                                    
+Support Vector Machine                                           
+KNN                                                                
+Random Forest Classifier                                                          
+Naivye Bayes                                                                 
+Decision Tree                                                   
+
+<font size = "5">**Guide Lines**  </font>      
+**Packages and Tools Required:**                               
+Pandas                                                
+Matplotlib                                                
+Seaborn                                                     
+Scikit Learn                                                 
+Jupyter Notebook    
+
+**Package Installation**                                         
+pip install numpy                                                  
+pip install pandas                                 
+pip install seaborn                                     
+pip install scikit-learn                                           
+pip install matplotlib                                    
